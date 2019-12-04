@@ -1,0 +1,4 @@
+export default {
+  PROFILE: "USER_PROFILE",
+  PREFERENCE: "USER_PREFERENCE"
+};
